@@ -1,0 +1,29 @@
+[
+  {
+    "id": "cat-disgusted",
+    "name": "Disgusted cat",
+    "image": "cat-disgusted.jpg",
+    "layout": "caption"
+  },
+  {
+    "id": "drake",
+    "name": "Drake",
+    "image": "drake.jpg",
+    "textAreas": [
+      {
+        "id": "reject",
+        "label": "Drake says no to…",
+        "box": [0.5, 0.0, 0.5, 0.5],
+        "style": "panel",
+        "sizeGroup": "panels"
+      },
+      {
+        "id": "approve",
+        "label": "Drake says yes to…",
+        "box": [0.5, 0.5, 0.5, 0.5],
+        "style": "panel",
+        "sizeGroup": "panels"
+      }
+    ]
+  }
+]
